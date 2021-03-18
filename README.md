@@ -2,7 +2,7 @@
 I'm a KICP Fellow at the University of Chicago and I build tools to analyze large cosmological datasets. My work has been almost 100% in git repositories hosted privately on servers run by the collaborations I work with, so I'd like to introduce myself and point to a new *public* project I'm really excited to release soon!
 
 * I am now in year 10 of working in the SPIDER collaboration. SPIDER is a balloon-borne telescope built to make maps of the oldest light in the Universe, the Cosmic Microwave Background. I helped build and test the thing, along with a small team, and since we flew it from Antarctica in 2015, I have been cleaning and compressing and building models for the 2 TB of timestream data we collected. To that end...
-* I have been especially focused during the last few years on the main pipeline turning maps of the CMB into cosmological power spectra and parameters; ie., science. This pipeline is called XFaster, and I'm currently working on putting the finishing touches on a paper about it and making the code public. It's a work in progress, but soon all the info will be here: https://annegambrel.github.io/xfaster/
+* I have been especially focused during the last few years on the main pipeline turning maps of the CMB into cosmological power spectra and parameters; ie., science. This pipeline is called XFaster, and I'm currently working on putting the finishing touches on a paper about it. The code is available here: https://github.com/annegambrel/xfaster. Still in progress: cleaning some things up, making better documentation, and adding features.
 * I have also done projects with the South Pole Telescope collaboration, which has the extra fun challenge of collecting the equivalent of SPIDER's whole dataset every week or so.
 
 <!--
