@@ -1,5 +1,5 @@
 ### Hi there! 👋:penguin:
-I'm a new data scientist at Civis Analytics. 
+I'm a Senior Data Scientist at Civis Analytics working on building models for voter turnout and demographics. 
 
 
 Before that, I was a KICP Fellow at the University of Chicago where I worked on [building tools](https://github.com/SPIDER-CMB/xfaster) to [analyze large cosmological data sets](https://arxiv.org/abs/2104.01172).
