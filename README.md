@@ -1,8 +1,8 @@
-### Hi there! 👋:penguin:
-I'm a Senior Data Scientist at Civis Analytics working on building models for voter turnout and demographics. 
+### Hi there! 👋 🐧
+I'm a data scientist in progressive data. I previously worked at the DSCC during the 2024 election to help Democratic Senate campaigns target their outreach efficiently. Before that, I was at Civis Analytics building models and pipelines for political organizations, governments, and nonprofits to better reach donors and serve their constituents. 
 
 
-Before that, I was a KICP Fellow at the University of Chicago where I worked on [building tools](https://github.com/SPIDER-CMB/xfaster) to [analyze large cosmological data sets](https://arxiv.org/abs/2104.01172).
+In a previous life, I was a KICP Fellow at the University of Chicago where I worked on [building tools](https://github.com/SPIDER-CMB/xfaster) to [analyze large cosmological data sets](https://arxiv.org/abs/2104.01172).
 
 <!--
 **annegambrel/annegambrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
